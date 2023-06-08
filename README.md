@@ -30,8 +30,8 @@ To write a program to implement the SVM For Spam Mail Detection.
 ```
 /*
 Program to implement the SVM For Spam Mail Detection..
-Developed by: SABARI
-RegisterNumber: 212222240085
+Developed by: MITHUN M S
+RegisterNumber: 212222240067
 import chardet
 file='/content/spam.csv'
 with open(file,'rb') as rawdata:
